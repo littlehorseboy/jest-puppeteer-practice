@@ -1,0 +1,19 @@
+{
+  "name": "jest-puppeteer-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/puppeteer": "^1.12.3",
+    "jest": "^24.7.1",
+    "jest-puppeteer": "^4.1.1",
+    "puppeteer": "^1.14.0"
+  }
+}
